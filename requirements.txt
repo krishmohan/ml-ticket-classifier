@@ -1,0 +1,7 @@
+torch
+datasets
+pandas
+numpy
+matplotlib
+seaborn
+pyyaml
